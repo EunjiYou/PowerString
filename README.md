@@ -22,6 +22,7 @@
 - DB 설계
 - Entity Framework를 이용한 Database CRUD 구현
 - LINQ문을 이용한 GridView Data Binding
+- UnitTest를 이용한 단위 
 <br/><br/><br/>
 
 # 프로그램 구성
