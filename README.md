@@ -34,10 +34,10 @@
 <br/><br/><br/>
 
 # 실행 화면
-<img src="https://user-images.githubusercontent.com/41276552/47709087-df90ee80-dc72-11e8-9e1f-3e3cdfd9907e.png" width="250" height="200"/>
-<img src="https://user-images.githubusercontent.com/41276552/47709088-df90ee80-dc72-11e8-9eae-eb9c80cd0030.png" width="250" height="200"/>
-<img src="https://user-images.githubusercontent.com/41276552/47709089-df90ee80-dc72-11e8-8ac7-2c0678a71dbf.png" width="250" height="200"/>
-<img src="https://user-images.githubusercontent.com/41276552/47709090-e0298500-dc72-11e8-9dd1-6f6547706f22.png" width="250" height="200"/>
-<img src="https://user-images.githubusercontent.com/41276552/47709091-e0298500-dc72-11e8-9347-2179eaca61b0.png" width="250" height="200"/>
-<img src="https://user-images.githubusercontent.com/41276552/47709093-e0298500-dc72-11e8-953d-fe6bd5a6e53e.png" width="250" height="200"/>
-<img src="https://user-images.githubusercontent.com/41276552/47709085-def85800-dc72-11e8-8b66-fc4ee6a7b34c.png" width="250" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709087-df90ee80-dc72-11e8-9e1f-3e3cdfd9907e.png" width="240" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709088-df90ee80-dc72-11e8-9eae-eb9c80cd0030.png" width="240" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709089-df90ee80-dc72-11e8-8ac7-2c0678a71dbf.png" width="240" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709090-e0298500-dc72-11e8-9dd1-6f6547706f22.png" width="240" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709091-e0298500-dc72-11e8-9347-2179eaca61b0.png" width="240" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709093-e0298500-dc72-11e8-953d-fe6bd5a6e53e.png" width="240" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709085-def85800-dc72-11e8-8b66-fc4ee6a7b34c.png" width="240" height="200"/>
