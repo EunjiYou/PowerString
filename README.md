@@ -36,7 +36,7 @@
 # 실행 화면
 <table>
   <tr>
-<td><img src="https://user-images.githubusercontent.com/41276552/47709087-df90ee80-dc72-11e8-9e1f-3e3cdfd9907e.png" width="250" height="200"/></td>
+<td><img src="https://user-images.githubusercontent.com/41276552/47709087-df90ee80-dc72-11e8-9e1f-3e3cdfd9907e.png" width="400" height="200"/></td>
 <td><img src="https://user-images.githubusercontent.com/41276552/47709088-df90ee80-dc72-11e8-9eae-eb9c80cd0030.png" width="250" height="200"/></td>
 <td><img src="https://user-images.githubusercontent.com/41276552/47709089-df90ee80-dc72-11e8-8ac7-2c0678a71dbf.png" width="250" height="200"/></td>
   </tr>
