@@ -6,7 +6,8 @@
 - 개발인원 : 5명
 - 개발 기간 : 2018.10.08 - 2018.10.15
 - 개발 환경<br/><br/>
-![default](https://user-images.githubusercontent.com/25303946/47707922-57a9e500-dc70-11e8-93f3-7d00f66a01c3.png)
+  1. 사용 언어 : C# 
+  2. 사용 툴 : Visual Studio, MSSQL
 <br/><br/><br/>
 
 # 주요 구현 기능
@@ -19,7 +20,7 @@
 
 # 주요 사용 기술
 - DB 설계
-- Entity Framework를 통한 DB CRUD 구현
+- Entity Framework를 이용한 Database CRUD 구현
 - LINQ문을 이용한 GridView Data Binding
 <br/><br/><br/>
 
