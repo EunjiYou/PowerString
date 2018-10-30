@@ -19,8 +19,8 @@
 <br/><br/><br/>
 
 # 핵심 기술
-- DB 설계
-- Entity Framework를 이용한 Database CRUD 구현
+- Database 설계
+- Entity Framework를 이용한 Database 연동
 - LINQ문을 이용한 GridView Data Binding
 - UnitTest를 이용한 단위 테스트
 <br/><br/><br/>
