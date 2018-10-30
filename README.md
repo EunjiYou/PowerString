@@ -35,7 +35,7 @@
 
 # 실행 화면
 
-<img src="![1](https://user-images.githubusercontent.com/41276552/47709087-df90ee80-dc72-11e8-9e1f-3e3cdfd9907e.png)" width="250" height="200"/>
+<img src="https://user-images.githubusercontent.com/41276552/47709087-df90ee80-dc72-11e8-9e1f-3e3cdfd9907e.png" width="250" height="200"/>
 ![2](https://user-images.githubusercontent.com/41276552/47709088-df90ee80-dc72-11e8-9eae-eb9c80cd0030.png)
 ![3](https://user-images.githubusercontent.com/41276552/47709089-df90ee80-dc72-11e8-8ac7-2c0678a71dbf.png)
 ![4](https://user-images.githubusercontent.com/41276552/47709090-e0298500-dc72-11e8-9dd1-6f6547706f22.png)
