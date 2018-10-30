@@ -6,7 +6,7 @@
 - 개발인원 : 5명
 - 개발 기간 : 2018.10.08 - 2018.10.15
 - 개발 환경<br/>
-![db](https://user-images.githubusercontent.com/25303946/47707710-d8b4ac80-dc6f-11e8-8e76-4b17ef798998.png)
+![default](https://user-images.githubusercontent.com/25303946/47707736-ec601300-dc6f-11e8-82f2-9866568a27b4.png)
 <br/><br/><br/>
 
 # 주요 구현 기능
@@ -24,7 +24,7 @@
 <br/><br/><br/>
 
 # 프로그램 구성
-[그림2] 프로그램 구조도
+![db](https://user-images.githubusercontent.com/25303946/47707710-d8b4ac80-dc6f-11e8-8e76-4b17ef798998.png)
 <br/><br/><br/>
 
 # DB 구조
