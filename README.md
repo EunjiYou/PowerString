@@ -26,11 +26,10 @@
 <br/><br/><br/>
 
 # 프로그램 구성
-![db](https://user-images.githubusercontent.com/25303946/47707710-d8b4ac80-dc6f-11e8-8e76-4b17ef798998.png)
 <br/><br/><br/>
 
 # DB 구조
-[그림3] DB diagram
+<img src="https://user-images.githubusercontent.com/25303946/47707710-d8b4ac80-dc6f-11e8-8e76-4b17ef798998.png" width="400" height="200"/>
 <br/><br/><br/>
 
 # 실행 화면
