@@ -26,6 +26,7 @@
 <br/><br/><br/>
 
 # 프로그램 구성
+<img src="https://user-images.githubusercontent.com/25303946/47774343-1b3dbe00-dd30-11e8-945b-66f0d3a7fea1.png" width="800" height="500"/>
 <br/><br/><br/>
 
 # DB 구조
