@@ -29,7 +29,7 @@
 <br/><br/><br/>
 
 # DB 구조
-<img src="https://user-images.githubusercontent.com/25303946/47707710-d8b4ac80-dc6f-11e8-8e76-4b17ef798998.png" width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/25303946/47707710-d8b4ac80-dc6f-11e8-8e76-4b17ef798998.png" width="800" height="500"/>
 <br/><br/><br/>
 
 # 실행 화면
